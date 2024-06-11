@@ -1,0 +1,101 @@
+id,name,age,gender,user_location,restaurant_location,product_price,kind_of_food,restaurant,delivery_time,friends,content_click_times
+1,Frank,47,Other,Jakarta,Jakarta,51.77,Italian,Burger King,23,209,5
+2,Alice,21,Other,Bandung,Bandung,72.98,Mexican,McDonald's,20,197,38
+3,David,52,Male,Bandung,Bandung,51.19,Chinese,KFC,58,380,35
+4,David,60,Other,Surabaya,Surabaya,72.31,Mexican,Burger King,16,100,24
+5,Hannah,31,Other,Jakarta,Jakarta,52.32,Italian,McDonald's,58,385,49
+6,Jane,57,Other,Surabaya,Surabaya,85.23,Japanese,Pizza Hut,30,253,15
+7,David,39,Female,Jakarta,Jakarta,23.46,Chinese,Burger King,27,157,20
+8,Frank,27,Female,Surabaya,Surabaya,78.47,Chinese,Sushi Tei,27,389,9
+9,Charlie,18,Male,Jakarta,Jakarta,97.55,Italian,KFC,36,464,4
+10,Eva,28,Male,Surabaya,Surabaya,86.92,Italian,Burger King,33,230,49
+11,Hannah,61,Male,Jakarta,Jakarta,79.14,Japanese,Burger King,40,424,24
+12,Grace,41,Other,Jakarta,Jakarta,98.58,Mexican,KFC,28,150,30
+13,Ian,20,Other,Jakarta,Jakarta,76.59,Japanese,Pizza Hut,45,30,2
+14,Ian,52,Female,Jakarta,Jakarta,5.38,Italian,Sushi Tei,43,255,19
+15,Bob,53,Female,Bandung,Bandung,30.6,Japanese,McDonald's,59,19,3
+16,Grace,48,Male,Surabaya,Surabaya,44.0,Italian,Pizza Hut,56,260,13
+17,Hannah,21,Male,Jakarta,Jakarta,45.68,Chinese,McDonald's,36,148,11
+18,Hannah,36,Other,Jakarta,Jakarta,33.29,Japanese,Sushi Tei,21,362,13
+19,Ian,64,Female,Bandung,Bandung,43.11,Fast Food,Pizza Hut,51,74,36
+20,Bob,53,Female,Surabaya,Surabaya,16.46,Chinese,Burger King,55,123,17
+21,Frank,38,Other,Bandung,Bandung,98.17,Fast Food,Pizza Hut,41,451,26
+22,Jane,35,Male,Jakarta,Jakarta,43.58,Italian,McDonald's,45,214,6
+23,Ian,45,Female,Jakarta,Jakarta,59.08,Fast Food,Burger King,20,316,47
+24,Jane,32,Female,Jakarta,Jakarta,37.64,Mexican,KFC,30,229,34
+25,Eva,59,Female,Jakarta,Jakarta,79.94,Italian,Pizza Hut,52,250,21
+26,David,19,Female,Jakarta,Jakarta,44.08,Fast Food,Pizza Hut,52,93,20
+27,Alice,54,Female,Bandung,Bandung,39.13,Italian,Burger King,46,169,42
+28,David,28,Other,Jakarta,Jakarta,42.95,Mexican,Pizza Hut,47,40,17
+29,Frank,40,Other,Surabaya,Surabaya,33.67,Fast Food,Burger King,31,188,37
+30,Alice,61,Other,Surabaya,Surabaya,78.65,Fast Food,KFC,47,209,25
+31,Charlie,58,Male,Surabaya,Surabaya,92.99,Chinese,Pizza Hut,25,179,21
+32,David,29,Female,Jakarta,Jakarta,35.9,Fast Food,McDonald's,27,296,36
+33,Ian,20,Other,Jakarta,Jakarta,95.52,Fast Food,Pizza Hut,44,59,4
+34,Bob,34,Female,Surabaya,Surabaya,6.33,Italian,Burger King,15,490,47
+35,David,50,Female,Jakarta,Jakarta,55.68,Mexican,Burger King,44,478,34
+36,David,18,Female,Surabaya,Surabaya,33.94,Japanese,McDonald's,41,29,11
+37,David,56,Female,Surabaya,Surabaya,88.87,Mexican,McDonald's,54,225,34
+38,Hannah,37,Male,Jakarta,Jakarta,28.81,Mexican,Burger King,37,94,33
+39,Alice,64,Other,Bandung,Bandung,69.35,Fast Food,Burger King,34,238,46
+40,Bob,60,Other,Bandung,Bandung,81.99,Japanese,Pizza Hut,20,165,19
+41,Jane,58,Male,Bandung,Bandung,46.05,Japanese,Burger King,51,382,48
+42,Jane,31,Female,Jakarta,Jakarta,76.45,Mexican,McDonald's,34,216,11
+43,Alice,48,Female,Jakarta,Jakarta,83.81,Italian,Pizza Hut,51,272,33
+44,Eva,42,Male,Bandung,Bandung,41.01,Japanese,Burger King,20,355,25
+45,Hannah,20,Male,Jakarta,Jakarta,14.17,Japanese,KFC,43,167,33
+46,David,21,Male,Jakarta,Jakarta,29.33,Mexican,McDonald's,27,157,31
+47,Charlie,48,Other,Bandung,Bandung,61.23,Chinese,KFC,41,65,45
+48,Hannah,52,Female,Surabaya,Surabaya,50.27,Japanese,Pizza Hut,34,279,6
+49,Charlie,61,Other,Surabaya,Surabaya,51.35,Mexican,McDonald's,27,200,25
+50,Alice,31,Female,Jakarta,Jakarta,48.56,Chinese,Pizza Hut,53,384,24
+51,Alice,58,Other,Surabaya,Surabaya,54.84,Mexican,Sushi Tei,22,87,45
+52,Eva,26,Male,Bandung,Bandung,46.99,Mexican,McDonald's,31,293,38
+53,Frank,37,Other,Bandung,Bandung,86.0,Italian,Pizza Hut,44,367,16
+54,Frank,49,Male,Surabaya,Surabaya,46.18,Fast Food,KFC,15,447,23
+55,Grace,26,Female,Bandung,Bandung,83.55,Chinese,Pizza Hut,38,410,26
+56,Ian,44,Female,Surabaya,Surabaya,53.39,Fast Food,Burger King,30,217,3
+57,Eva,20,Female,Surabaya,Surabaya,13.21,Chinese,Burger King,25,345,26
+58,Bob,21,Male,Bandung,Bandung,67.7,Chinese,KFC,18,134,46
+59,Eva,62,Male,Surabaya,Surabaya,24.63,Japanese,Pizza Hut,18,216,29
+60,Jane,32,Male,Jakarta,Jakarta,85.49,Italian,McDonald's,31,463,2
+61,Ian,50,Male,Jakarta,Jakarta,69.73,Italian,KFC,24,101,5
+62,Bob,22,Male,Surabaya,Surabaya,21.94,Mexican,Pizza Hut,35,297,7
+63,Bob,21,Male,Bandung,Bandung,11.64,Fast Food,Sushi Tei,52,401,15
+64,Hannah,63,Female,Bandung,Bandung,5.92,Mexican,Burger King,32,464,14
+65,Jane,29,Male,Surabaya,Surabaya,89.74,Italian,KFC,24,368,35
+66,Jane,40,Other,Surabaya,Surabaya,17.68,Mexican,Pizza Hut,59,43,39
+67,David,31,Other,Bandung,Bandung,79.02,Italian,Sushi Tei,30,110,7
+68,Grace,63,Female,Jakarta,Jakarta,92.89,Italian,Burger King,53,453,38
+69,Hannah,29,Female,Surabaya,Surabaya,72.94,Chinese,Sushi Tei,29,374,29
+70,Charlie,34,Female,Jakarta,Jakarta,51.63,Mexican,KFC,48,403,49
+71,Alice,42,Other,Surabaya,Surabaya,49.6,Chinese,Pizza Hut,19,239,11
+72,David,47,Female,Jakarta,Jakarta,88.86,Mexican,Sushi Tei,31,278,3
+73,Frank,39,Female,Surabaya,Surabaya,51.4,Italian,Sushi Tei,51,365,13
+74,Jane,64,Male,Bandung,Bandung,44.38,Italian,Sushi Tei,22,395,24
+75,Eva,43,Female,Surabaya,Surabaya,21.54,Japanese,McDonald's,38,11,4
+76,Eva,34,Other,Bandung,Bandung,50.15,Chinese,Sushi Tei,42,417,22
+77,Grace,37,Female,Jakarta,Jakarta,79.45,Fast Food,Pizza Hut,22,391,29
+78,Eva,51,Female,Bandung,Bandung,57.86,Mexican,Pizza Hut,37,119,38
+79,Eva,58,Male,Bandung,Bandung,20.19,Fast Food,Pizza Hut,49,282,11
+80,David,50,Male,Surabaya,Surabaya,18.66,Japanese,Burger King,45,48,14
+81,Eva,54,Female,Surabaya,Surabaya,66.7,Italian,Sushi Tei,31,199,18
+82,Eva,24,Female,Jakarta,Jakarta,56.23,Chinese,KFC,42,239,25
+83,Ian,39,Other,Bandung,Bandung,35.94,Fast Food,Burger King,26,182,44
+84,Eva,49,Female,Jakarta,Jakarta,18.97,Chinese,McDonald's,38,96,3
+85,David,31,Other,Jakarta,Jakarta,20.19,Italian,Pizza Hut,29,356,37
+86,Hannah,25,Other,Jakarta,Jakarta,17.29,Chinese,McDonald's,54,338,7
+87,Frank,42,Female,Surabaya,Surabaya,60.0,Chinese,Burger King,45,87,29
+88,Frank,33,Other,Jakarta,Jakarta,13.76,Mexican,McDonald's,41,405,14
+89,Alice,59,Other,Bandung,Bandung,91.5,Fast Food,Burger King,49,2,11
+90,Bob,36,Male,Jakarta,Jakarta,12.88,Japanese,McDonald's,32,264,9
+91,Frank,58,Female,Surabaya,Surabaya,81.04,Chinese,Pizza Hut,50,266,11
+92,Jane,33,Female,Bandung,Bandung,88.33,Chinese,Sushi Tei,22,261,16
+93,David,29,Female,Jakarta,Jakarta,13.88,Japanese,Pizza Hut,52,294,39
+94,Alice,56,Other,Bandung,Bandung,45.5,Fast Food,Pizza Hut,19,422,1
+95,Frank,47,Female,Surabaya,Surabaya,49.96,Italian,Pizza Hut,28,100,18
+96,Alice,19,Female,Jakarta,Jakarta,60.12,Mexican,Sushi Tei,52,449,28
+97,Bob,49,Female,Jakarta,Jakarta,73.04,Japanese,Pizza Hut,34,117,0
+98,Charlie,62,Other,Jakarta,Jakarta,7.57,Chinese,Burger King,58,59,21
+99,Eva,42,Male,Surabaya,Surabaya,74.48,Italian,McDonald's,23,164,24
+100,Charlie,42,Female,Bandung,Bandung,77.86,Mexican,Sushi Tei,47,389,9
